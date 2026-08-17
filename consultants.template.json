@@ -1,0 +1,14 @@
+{
+  "last_updated": "YYYY-MM-DD",
+  "source_group": "",
+  "consultants": [
+    {
+      "display_name": "Coco",
+      "full_name": "Coco 徐静雯",
+      "open_id": "ou_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "enterprise_email": "coco.xu@example.com",
+      "department": "",
+      "notes": ""
+    }
+  ]
+}
